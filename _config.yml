@@ -2,7 +2,7 @@
 title: Shil.ch
 email: me@shil.ch
 description: Shil's private Website
-baseurl: "/Shil.ch" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://shil.ch" # the base hostname & protocol for your site
 
 # Build settings
